@@ -2,18 +2,16 @@
     <div>
         <Header/>
         <div>
-                <div class="container">
-                    <div class="mt-5">
-                        <Search/>
-                    </div>
+            <div class="container">
+                <div class="mt-5">
+                    <Search/>
+                </div>
             <div class="col-md-5 mt-2">
                 <label class="lbl mb-1 mt-4"> <b>ძიების შედეგი</b>
                 <span class="cnt mx-1   ">(120 ვაკანსია)</span></label>
             </div>
             <div class="row col-12 col-md-12">
-            
                 <div class="col-12 col-md-4 margin-bottom-mobile">
-                
                     <div class="border border-position box mt-4">
                             <!-- Only Desktop -->
                             <div class="d-none d-md-block">
